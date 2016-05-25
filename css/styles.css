@@ -1,0 +1,11 @@
+h2.intro{
+  color: #FF0000;
+}
+
+p.intro{
+  font-family: cursive;
+}
+
+img.intro{
+  float: right;
+}
